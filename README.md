@@ -31,11 +31,3 @@ O projeto implementa a comunicação entre frontend e backend, permitindo regist
 Este projeto consome a API:
 
 👉 https://github.com/PauloMarcelodv/Login-auth-api
-
----
-
-## Como executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/PauloMarcelodv/login-auth-frontend.git
