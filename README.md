@@ -9,9 +9,7 @@ O projeto implementa a comunicação entre frontend e backend, permitindo regist
 ## Tecnologias
 
 - Angular
-- TypeScript
 - HTML / CSS
-- RxJS
 - Angular HttpClient
 
 ---
